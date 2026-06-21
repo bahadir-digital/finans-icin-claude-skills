@@ -92,22 +92,6 @@ Döviz pozisyonumuzu netleştir, kur %10 artarsa kâr nasıl etkilenir?
 
 Yapay zekâ sihir değildir. Bu skiller analizi hızlandırır ama son kontrol sende kalır. Üretilen her rakamı ve yorumu kendi verinle doğrula. Vergi, KDV ve enflasyon düzeltmesi gibi konularda oranlar ve mevzuat değişir; skill'e güncel değeri sen ver ve resmi işlemler için mali müşavirine danış.
 
-## Seri
-
-"Türkçe Profesyoneller İçin Claude Skills" serisinin paketleri:
-
-| # | Meslek | Durum |
-| :-: | --- | --- |
-| 1 | Öğretmenler | ✅ Yayında |
-| 2 | Müşteri Hizmetleri | ✅ Yayında |
-| 3 | Finans / Dijital CFO | ✅ Bu paket |
-| 4 | İnsan Kaynakları | ⏳ Planlanıyor |
-| 5 | Yöneticiler | ✅ Yayında |
-| 6 | Satış | ⏳ Planlanıyor |
-| 7 | Proje Yöneticileri | ✅ Yayında |
-| 8 | Operasyon | ⏳ Planlanıyor |
-| 9 | Mali Müşavirler | ⏳ Planlanıyor |
-
 ## Katkı
 
 Geri bildirim ve öneriler memnuniyetle karşılanır. Bir hata bulursan ya da eklenmesini istediğin bir analiz varsa Issues üzerinden veya WhatsApp topluluğundan ulaşabilirsin. Skilleri kendi ihtiyacına göre uyarlamak serbesttir.
